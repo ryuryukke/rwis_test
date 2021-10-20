@@ -1,2 +1,2 @@
 # rwis_test
-Repo for a school assignment.
+A repo for a school project.
